@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "fitPS",
+    "oncran": true
+  },
+  {
     "package": "Hotelling",
     "oncran": true
   }
