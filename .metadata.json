@@ -10,5 +10,9 @@
   {
     "package": "Hotelling",
     "oncran": true
+  },
+  {
+    "package": "multimix",
+    "oncran": true
   }
 ]

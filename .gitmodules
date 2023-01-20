@@ -19,3 +19,9 @@
 	url = https://github.com/jmcurran/hotelling
 	shallow = true
 	registered = true
+[submodule "multimix"]
+	path = multimix
+	url = https://github.com/jmcurran/multimix
+	shallow = true
+	subdir = multimix
+	registered = true
