@@ -9,6 +9,11 @@
 	shallow = true
 	subdir = Bolstad2
 	registered = true
+[submodule "comparison"]
+	path = comparison
+	url = https://github.com/jmcurran/comparison
+	shallow = true
+	registered = true
 [submodule "fitPS"]
 	path = fitPS
 	url = https://github.com/jmcurran/fitps
@@ -17,6 +22,16 @@
 [submodule "Hotelling"]
 	path = Hotelling
 	url = https://github.com/jmcurran/hotelling
+	shallow = true
+	registered = true
+[submodule "jaggR"]
+	path = jaggR
+	url = https://github.com/jmcurran/jaggr
+	shallow = true
+	registered = true
+[submodule "multicool"]
+	path = multicool
+	url = https://github.com/jmcurran/multicool
 	shallow = true
 	registered = true
 [submodule "multimix"]

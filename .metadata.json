@@ -4,11 +4,23 @@
     "oncran": true
   },
   {
+    "package": "comparison",
+    "oncran": true
+  },
+  {
     "package": "fitPS",
     "oncran": true
   },
   {
     "package": "Hotelling",
+    "oncran": true
+  },
+  {
+    "package": "jaggR",
+    "oncran": true
+  },
+  {
+    "package": "multicool",
     "oncran": true
   },
   {
