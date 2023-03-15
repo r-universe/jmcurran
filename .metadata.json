@@ -1,18 +1,18 @@
 [
   {
-    "package": "Bolstad2",
-    "oncran": true
-  },
-  {
-    "package": "fitPS",
-    "oncran": true
-  },
-  {
     "package": "Hotelling",
     "oncran": true
   },
   {
+    "package": "Bolstad2",
+    "oncran": true
+  },
+  {
     "package": "multimix",
+    "oncran": true
+  },
+  {
+    "package": "fitPS",
     "oncran": true
   }
 ]
