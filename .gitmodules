@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Bolstad"]
+	path = Bolstad
+	url = https://github.com/cran/Bolstad
+	shallow = true
+	registered = true
 [submodule "Bolstad2"]
 	path = Bolstad2
 	url = https://github.com/jmcurran/bolstad2
@@ -12,6 +17,11 @@
 [submodule "comparison"]
 	path = comparison
 	url = https://github.com/jmcurran/comparison
+	shallow = true
+	registered = true
+[submodule "dafs"]
+	path = dafs
+	url = https://github.com/cran/dafs
 	shallow = true
 	registered = true
 [submodule "fitPS"]
@@ -39,4 +49,19 @@
 	url = https://github.com/jmcurran/multimix
 	shallow = true
 	subdir = multimix
+	registered = true
+[submodule "relSim"]
+	path = relSim
+	url = https://github.com/cran/relSim
+	shallow = true
+	registered = true
+[submodule "s20x"]
+	path = s20x
+	url = https://github.com/cran/s20x
+	shallow = true
+	registered = true
+[submodule "tfer"]
+	path = tfer
+	url = https://github.com/cran/tfer
+	shallow = true
 	registered = true
