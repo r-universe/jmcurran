@@ -48,7 +48,6 @@
 	path = multimix
 	url = https://github.com/jmcurran/multimix
 	shallow = true
-	subdir = multimix
 	registered = true
 [submodule "relSim"]
 	path = relSim
