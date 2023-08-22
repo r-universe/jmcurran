@@ -33,9 +33,6 @@
 [submodule "relSim"]
 	path = relSim
 	url = https://github.com/jmcurran/relsim
-[submodule "s20x"]
-	path = s20x
-	url = https://github.com/cran/s20x
 [submodule "tfer"]
 	path = tfer
 	url = https://github.com/cran/tfer
