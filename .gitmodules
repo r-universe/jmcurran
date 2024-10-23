@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "Bolstad"]
 	path = Bolstad
-	url = https://github.com/cran/Bolstad
+	url = https://github.com/jmcurran/bolstad
 [submodule "Bolstad2"]
 	path = Bolstad2
 	url = https://github.com/jmcurran/bolstad2
