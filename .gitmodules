@@ -9,6 +9,9 @@
 	path = Bolstad2
 	url = https://github.com/jmcurran/bolstad2
 	subdir = Bolstad2
+[submodule "DET"]
+	path = DET
+	url = https://github.com/jmcurran/det
 [submodule "Hotelling"]
 	path = Hotelling
 	url = https://github.com/jmcurran/hotelling
