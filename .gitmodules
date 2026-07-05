@@ -18,6 +18,9 @@
 [submodule "Hotelling"]
 	path = Hotelling
 	url = https://github.com/jmcurran/hotelling
+[submodule "WMFM"]
+	path = WMFM
+	url = https://github.com/jmcurran/wmfm
 [submodule "comparison"]
 	path = comparison
 	url = https://github.com/jmcurran/comparison
